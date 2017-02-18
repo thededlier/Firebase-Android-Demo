@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "976263507443",
+    "firebase_url": "https://gre-vocabulary-app.firebaseio.com",
+    "project_id": "gre-vocabulary-app",
+    "storage_bucket": "gre-vocabulary-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976263507443:android:10560a10b20aad23",
+        "android_client_info": {
+          "package_name": "com.anand.rohan.gre_vocabulary_android_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976263507443-h3qeq1gg7q41nh5msj9b0b9v2fcdcp2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNGCBNAhfPz_zrM3zncSxpio72QaEp4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976263507443-h3qeq1gg7q41nh5msj9b0b9v2fcdcp2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976263507443:android:642a9b3f2ce60f59",
+        "android_client_info": {
+          "package_name": "com.rohananand.firedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976263507443-h3qeq1gg7q41nh5msj9b0b9v2fcdcp2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNGCBNAhfPz_zrM3zncSxpio72QaEp4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976263507443-h3qeq1gg7q41nh5msj9b0b9v2fcdcp2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
